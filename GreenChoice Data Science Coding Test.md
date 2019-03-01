@@ -1,4 +1,7 @@
-##Question 1
+## Question 1
+
+I wrote a function called SearchName to initiate the searching process regarding the input parent name.
+
 ```
 # Build Graph
 name = {
@@ -26,3 +29,8 @@ parent = input("Pleas input the parent name: ")
 visited = SearchName(name,parent, [])
 print(visited)
 ```
+## Question 2
+
+
+
+
