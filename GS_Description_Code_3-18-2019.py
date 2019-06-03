@@ -14,6 +14,11 @@ import os
 #read the table
 greenscore_table = pd.read_csv("C:\\Users\\Varun Srivastava\\Desktop\\GC_Backend\\GC_Backend\\GreenScore Tables and Consolidation Code\\GS_GreenScores_all_systems_Nominated_brands_05-07.csv")
 
+sfsgfhgh
+dgfdgfdgfdg
+dgdgdgd
+dgdfsss
+
 #greenscore_table =greenscore_table.sample(frac=0.12, random_state=123)
 description_table = pd.read_csv("C:\\Users\\Varun Srivastava\\Desktop\\GC_Backend\\GC_Backend\\GS_Description_Model\\Supporting Data\\GS_Descriptions_Template_03_14.csv",encoding ='latin1')
 
